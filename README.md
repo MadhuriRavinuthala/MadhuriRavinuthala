@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhuri Ravinuthala</h1>
-<h3 align="center">A passionate software tester</h3>
+<h3 align="center">A passionate Software Tester</h3>
 
 - 🔭 I’m currently working on **API Testing Project**
 
